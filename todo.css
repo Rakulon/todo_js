@@ -1,0 +1,37 @@
+button {
+	margin: 0 auto;
+	background-size: 5px;
+	background-color: darkgrey;
+	cursor: hover grey;
+	float: right;
+}
+p {
+	text-align: left;
+}
+button:hover {
+	color:red;
+	background-color: black;
+}
+
+#toDoButton {
+	float: left;
+}
+#toDoButton:hover {
+	background-color: darkorange;
+	color: white;
+	text-align: left;
+}
+
+h1 {
+	background: darkgrey; 
+	margin: 0 auto;
+	text-align: center;
+}
+body {
+	background-color: lightgrey;
+	margin: 0 auto;
+}
+h1:hover {
+	background-color: black;
+	color: white;
+}
