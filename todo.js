@@ -1,5 +1,4 @@
 // todallist.onclick(event) if event.target =   ?    remove event
-var stuffToDo = []
 var toDo = document.getElementById('toDo');
 var toDoListJ = document.getElementById('toDoList');
 var theButton = document.getElementById("toDoButton");
