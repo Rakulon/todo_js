@@ -3,7 +3,6 @@ var stuffToDo = []
 var toDo = document.getElementById('toDo');
 var toDoListJ = document.getElementById('toDoList');
 var theButton = document.getElementById("toDoButton");
-var reButton = document.getElementById("rm");
 
 theButton.onclick = function() {
   	var newTitleHeading = document.createElement('h1');
